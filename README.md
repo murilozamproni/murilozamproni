@@ -1,0 +1,5 @@
+- 👋 Hello, I'm Murilo Zampronio
+- 👀 I'm interested in new job opportunities
+- 🌱 I'm currently studying Computer Science in Ribeirão Preto at Universade Barão de Mauá.
+- 📫 How to contact me by email: murilo.zamproni@gmail.com
+- ⚡ Fun fact: I love games and football, but at the moment I'm venturing into programming.
